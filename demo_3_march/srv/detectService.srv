@@ -1,0 +1,4 @@
+float32 detectiontime
+float32 timeout
+---
+bool result
